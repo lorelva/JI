@@ -1,2 +1,2 @@
-# HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-Esto es un repsoitorio para probar git
+# 
+This is a repository to test git. Just ignore it.
